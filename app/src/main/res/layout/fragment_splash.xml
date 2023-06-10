@@ -61,7 +61,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@id/imgSmall"
         android:text = "Raise"
-        android:textolor= "@color/white"/>
+        android:textColor="#ffffff"/>
     <androidx.appcompat.widget.AppCompatTextView
         android:id = "@+id/tvRealEstate"
         android:textSize = "24sp"
@@ -72,7 +72,43 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@id/tvRaise"
         android:text = "Real Estate"
-        android:textolor= "@color/white"/>
+        android:textColor="#ffffff"/>
+    <androidx.appcompat.widget.AppCompatButton
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:background="@drawable/bg_btn_round_transprent_conor"
+        android:text="let's start"
+        android:textAllCaps="false"
+        android:textColor="#ffffff"
+        android:layout_marginBottom="60dp"
+        android:id="@+id/btnLetStart"/>
+    <androidx.appcompat.widget.AppCompatTextView
+        android:layout_marginTop="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvMadeInLove"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:text="Made with love"
+        android:textColor="#ffffff"
+        app:layout_constraintTop_toBottomOf="@+id/btnLetStart"
+        android:textSize="10sp"/>
+    <androidx.appcompat.widget.AppCompatTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvVersionNo"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:text="v.1.1.0"
+        android:textColor="#ffffff"
+        app:layout_constraintTop_toBottomOf="@+id/tvMadeInLove"
+        android:textSize="10sp"/>
+
 
 
 

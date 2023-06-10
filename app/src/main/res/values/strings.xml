@@ -2,4 +2,6 @@
     <string name="app_name">HomeLand</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description_text">Once you\'ve added a library module, it will appear as a separate module within your project structure. </string>
+    <string name="next">Next</string>
 </resources>
