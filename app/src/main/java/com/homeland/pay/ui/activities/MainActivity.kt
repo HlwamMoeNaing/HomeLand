@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
 
         Log.d("@onBoTst",onBoardingFinished().toString())
         if (onBoardingFinished()){
-            navGraph.startDestination = R.id.homeFragment
+            navGraph.startDestination = R.id.loginOptionFragment
             navController.graph = navGraph
 
         }else{

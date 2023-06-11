@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_padding_start">18dp</dimen>
+    <dimen name="layout_padding_end">18dp</dimen>
+    <dimen name="layout_padding_bottom">8dp</dimen>
+</resources>

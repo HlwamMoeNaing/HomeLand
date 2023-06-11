@@ -4,4 +4,19 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="description_text">Once you\'ve added a library module, it will appear as a separate module within your project structure. </string>
     <string name="next">Next</string>
+    <string name="don_t_have_an_account_register">Don\'t have an account? Register</string>
+    <string name="continue_with_email">Continue with email</string>
+    <string name="your_password_is_incorrect">Your Password is incorrect</string>
+    <string name="show_password">Show Password?</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="create_your_account">Create your account</string>
+    <string name="description_sign_up">Color is inspired by bold color statements</string>
+    <string name="txt_email">johnwick@gmail.com</string>
+    <string name="txt_password">123456</string>
+    <string name="txt_user_name">John Wick</string>
+    <string name="tearm_of_service">Tearm of service</string>
+    <string name="enter_the_code">Enter the code</string>
+    <string name="otp_descriptio">Enter 4 digit code that we just send to</string>
+    <string name="txt_1">1</string>
+    <string name="txt_resend_otp">Didn\'t receive the OTP? Resend OTP</string>
 </resources>
